@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Where the ale brewers and beere brewers of this realme of Englande haue vsed and dayely doo vse for their owne singular lucre profite and gayne to make in their owne houses theyr barrels  ...</title>
+            <title>Proclamations. 1531</title>
+            <author>England. Sovereign (1509-1547 : Henry VIII)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1564</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21476</idno>
+            <idno type="STC">STC 7777</idno>
+            <idno type="STC">ESTC S108855</idno>
+            <idno type="EEBO-CITATION">99844507</idno>
+            <idno type="PROQUEST">99844507</idno>
+            <idno type="VID">9327</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21476)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 9327)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 10:04)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Where the ale brewers and beere brewers of this realme of Englande haue vsed and dayely doo vse for their owne singular lucre profite and gayne to make in their owne houses theyr barrels  ...</title>
+                  <title>Proclamations. 1531</title>
+                  <author>England. Sovereign (1509-1547 : Henry VIII)</author>
+                  <author>England. Parliament. Public General Acts. 1531. 23 Henry VIII.c.4.</author>
+               </titleStmt>
+               <extent>3 leaves   </extent>
+               <publicationStmt>
+                  <publisher>R. Jugge and J. Cawood,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1564?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>An act of Parliament (23 Henry VIII.c.4) regulating cooperage.</note>
+                  <note>Imprint from STC; Steele suggests T. Berthelet, 1532 for imprint and 1531-1532 for date of act.</note>
+                  <note>The woodcut initial is in a state between that in STC 7597 and STC 7995.3 [both of which are Jugge and Cawood imprints from the 1560s]--STC.</note>
+                  <note>Reproduction of the original in the Society of Antiquaries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Coopers and cooperage --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:9327:1" rendition="simple:additions"/>
+            <p>
+               <seg rend="decorInit">W</seg>Here the ale brewers and beere brewers of this realme of Englande haue vſed and dayely doo vſe for their owne ſingular lucre profite and gayne to make in their owne houſes theyr barrels, kylderkyns and firkyns of muche laſſe quantitie contente rate and aſſiſe than they ought to be, to the greate hurt preiudice and damage of the kynges liege people, &amp; contrary to diuers actes ſtatutes ancient lawes &amp; cuſtomes heretofore made had and vſed, and to the deſtruction of the poore craft or myſterie of coupers. For reformati<g ref="char:EOLhyphen"/>on wherof, be it enacted by the kyng out ſoueraigne lorde, the lordes ſpiri<g ref="char:EOLhyphen"/>tuall and temporall, and the commons in this preſent parliament aſſembled, and by auctoritie of the ſame, that no bere brewer, nor ale brewer, that ſhall brewe to ſale bere or ale, ſhall from henſforth occupy by hym ſelfe, nor by any other to his vſe in his houſe nor els where, the myſterie or crafte of coupers, nor make any barrelles, kylderkyns, fyrkyns, or other veſſelles by hym ſelfe, nor by his or their owne ſeruantes, wherby they ſhall putte their beere or ale to ſale, but that all ſuche barrelles, kylderkyns, and other veſſelles of woode, wherwith they ſhall put their bere or ale to ſale, ſhall from henſeforth be made &amp; marked accordyng as hereafter ſhalbe expreſſed, by the co<g ref="char:cmbAbbrStroke">̄</g>mon artificers of coupers exerciſed &amp; practiſed in the ſaid occupation vpon peyne to forfaite and pay for euery ſuche barrell, kiſderkin, firkin, or other veſſell, hereafter to be made contrary to the tenor of this act. iii. s. iiii. d.</p>
+            <p>¶ And be it alſo enacted, that euery artificer of the craft or miſterie of coupers, that wyl exerciſe or practiſe to make any of the ſayd veſſels for bere or ale to be put to ſale, ſhal make the ſame veſſels, &amp; euery of them, of good and ſeaſonable wodde, and put his propre marke vpon euery of them. And that euery barrell for bere ſhall conteyne. xxxvi. galons, euery kylderkyn for bere. xviii. galons, and euery fyrkyn for bere nine galons of the kynges ſtanderde gallon. And that euery barrell for ale ſhall conteyn. xxxii. gallons, euery kylder<g ref="char:EOLhyphen"/>kyn for ale. xvi. galons, and euery fyrkyn for ale. viii. galons of the kynges ſtanderde gallon. So that they ſhall bee of good and iuſte meaſure, or elles aboue and not vnder. And that no couper ſhall make any o<g ref="char:EOLhyphen"/>ther veſſell for bere or ale to be ſolde within this realme of any greatter or laſſer nomber of galons than is aboueſayde, oneleſſe he ſhall cauſe to be marked vpon euery ſuche veſſell, that he ſhall ſo make of greater or leſſer numbre of gallons, the trewe and certayne nombre of as many gallons, as euery ſuche other veſſell ſhall conteyne, to thentent that euery perſone may knowe the content thereof.</p>
+            <p>¶ And that no ſuche artificer of coupers ſhall enhaunce the prices of any ſuche barrels, kilderkins firkins, or other veſſels in the ſale of them to any ale brewer or bere brewer, or other perſone, but kepe the rates of ſuche prices as hereafter enſueth, and not aboue, vpon peyne to forfaite for euery barrell kilderkyn and fir<g ref="char:EOLhyphen"/>kyn defectiue or enhaunced in price in any poynt contrary to thys act. iii. s. iiii. d. That is to ſay, for euerye beere barrell. ix. d. For euery bere kylderkyn. v. d. and for euery beere firkyn. iii. d. And the ale barrell. xvi. d. the ale kylderkyn. ix. d. and the ale fyrkin. v. d.</p>
+            <p>¶ Alſo be it further enacted by the ſaid auctoritie, that no bere brewer nor ale brewer at any time after the feaſt of Lammas now next commyng, ſhall put theyr bere or ale to ſale to any perſon or perſons to be ſpent and occupied within this realme in any other barrels, kylderkyns, firkyns, or other veſſels of wodde, other than ſhall be made and marked by an artificer of coupers aboueſaide, whereof euery barrell for beere ſhall conteyne and holde. xxxvi. galons euery halfe barrell or kylderkyn. xviii. gallons, and euery fyrkyn. ix. ga<g ref="char:EOLhyphen"/>lons. And euery barrell for ale ſhall conteyne. xxxii. gallons, euery kylderkyn. xvi. gallons, and euery fyr<g ref="char:EOLhyphen"/>kyn. viii. galons of full and iuſt meaſure, or aboue, and not vnder that meaſure.</p>
+            <p>¶ And that any bere brewer or ale brewer ſhall not take ouer and aboue for any ſuche barrell, kylderkin,
+<pb facs="tcp:9327:2"/>or fyrkin of ale and bere, but after ſuche prices and rates, as ſhall bee thought conuenient and ſufficient by the diſcretions of the Iuſtices of peace within euery ſhire, where ſuch bere brewer and ale brewer ſhal dwel without any citie borowe or towne corporate, where no head officers, as Maires, bayliffes, ſhireffes, and other head officers, haue none auctoritie nor rule, and in euerye citie borough and towne, where there be Mayres Sheryffes, or other head officers, the ſame rates and prices to be named and ſeſſed by them &amp; eue<g ref="char:EOLhyphen"/>ry of them by their diſcretions. And that the ſayd ale brewers or bere brewers at any tyme hereafter ſhall not ſell their bere nor ale at any higher rates or prices than ſhall be to them aſſigned, after the forme aboue reherſed, vpon payne to loſe and forfaite for euery barrell ſo put to ſale contrary to this eſtatute. vi. s. for eue<g ref="char:EOLunhyphen"/>ry halfe barrell or kylderkyn. iii. s. iiii. d. and for euery fyrkin. ii. s. and for euery veſſell conteinynge greatter nomber of galons. x. s. and for euery other veſſell conteynyng leſſer nombre of galons. xii. d. The one halfe of all the whiche penalties and forfaitures to be to the kyng our ſoueraigne lorde, and the other half to him that wyll ſue for the ſame by action of debte, byll, playnt or information in any of the kynges courtes: In which actio<g ref="char:cmbAbbrStroke">̄</g> &amp; ſuit the defenda<g ref="char:cmbAbbrStroke">̄</g>t ſhal not wage his law, nor any eſſoin protection or priuilege to be admitted.</p>
+            <p>¶ Be it alſo further enacted by the ſaid auctoritie, that al maner of ſope makers within this realme of En<g ref="char:EOLhyphen"/>gland, which ſhall put to ſale any ſope by barrell, half barrell, firkyn, or other veſſel, ſhal from Lammas now next co<g ref="char:cmbAbbrStroke">̄</g>ming, make or cauſe to be made their barrels, halfe barrels, firkins, &amp; other veſſels, accordyng to the rates contentes weightes and aſſiſes of old tyme vſed and accuſtomed, that is to ſay, euery empty barrell to holde and conteyn. xxxii. galons or aboue, and to be in weyght. xxvi. poundes, and not aboue, of full and iuſt meaſure, and euery halfe barrell emptie to be in weight. xiii. li. and not aboue, and to hold and con<g ref="char:EOLhyphen"/>teyne. xvi. galons or aboue: and euery firkyn emptie to weye. vi. poundes and an halfe, and not aboue, and to holde and conteyne. viii. galons or aboue, vpon payne of forfayture for euery ſuche barrell halfe barrell fyrkyn or other veſſell hereafter to be made had or vſed contrary to this act. iii. s.. iii. d.</p>
+            <p>¶ And alſo be it enacted by the auctoritie aforſaid, y<hi rend="sup">t</hi> the warde<g ref="char:cmbAbbrStroke">̄</g>s of thoccupatio<g ref="char:cmbAbbrStroke">̄</g> or miſterie of coupers with in the citie of London fro<g ref="char:cmbAbbrStroke">̄</g> hensforth at al tymes hereafter when they ſhal thinke conuenient &amp; expedient, ta<g ref="char:EOLhyphen"/>kyng with them an officer of the Mayres, ſhal haue full power and auctoritie by vertue of this act, to ſerch view and gage all maaer of ſuche barrels kilderkins, firkins, and other veſſels to bee made or occupied for ale beere or ſope to be put to ſale within the citie of London, and ſuburbes of the ſame, &amp; within two myles compas without the ſame ſuburbes, to view and ſe that the ſame barrels kilderkins firkins &amp; other veſſels aſwell within liberties as without, be made &amp; marked well &amp; ſufficiently, and beare &amp; co<g ref="char:cmbAbbrStroke">̄</g>tein their true con<g ref="char:EOLhyphen"/>tents rates &amp; meſures, according to theffect of this eſtatute: And alſo to marke euery ſuch barrell kilderkyn firkin &amp; other veſſel by them ſo viewed &amp; gaged, bearing and co<g ref="char:cmbAbbrStroke">̄</g>teining their true co<g ref="char:cmbAbbrStroke">̄</g>tentes, with the ſigne &amp; token of a ſeint Antonies croſſe. The ſame wardens to haue for the ſerche &amp; gaging of euery ſuche barrell, kilderkin firkin &amp; other veſſell by them ſo ſerched viewed gaged &amp; marked one farthing, &amp; not aboue, of the owners or makers of the ſaid veſſels. And ſhall &amp; may haue auctoritie by vertue of this act to reteyne euery ſuche veſſell as they ſhall ſo gage ſerche and marke, vnto ſuche tyme as they ſhalbe ſatiſfied thereof. And in caſe they ſhall fynd any of the ſayde veſſels defectiue, not bearyng their true contentes, that than by au<g ref="char:EOLhyphen"/>cthoritie of this act, they may ſeaſe take and reteyne euery ſuch veſſell, and cauſe the ſame to bee marked or amended, accordying to the true content, or els cauſe the ſame to be brenned. And alſo the partye owner of ſuche veſſell to loſe and forfayte for euery ſuche veſſell not beynge of the full contentes after the rate aboue expreſſed. xii. d. to be recouered and employde as is aboue ſayde.</p>
+            <p>¶ And be it further enacted by the ſayd auctoritie, that in al other cities, borowes, and townes, wherin no
+<pb facs="tcp:9327:3"/>ſuche wardens of coupers be, that the Mayres, Sheryffes Ba<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ſtes, Conſtables or other head office<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s in ſuch Cities, borowes and townes ſhall haue power and auctoritie to ſerche, viewe, and gauge all ſuch bar<g ref="char:EOLhyphen"/>rells, kylderkyns, fyrkyns, and other veſſels to be made hereafter anye ſuch citie borowe or town, and to haue and take all ſuch auantage therby and in lyke maner and fourme as the wardens of coupers within the citie of London or other perſons by this act ſhuld or may haue or take on euery behalfe.</p>
+            <p>¶ Prouyded always y<hi rend="sup">t</hi> euery bere brewer may kepe in his houſe one or two ſerua<g ref="char:cmbAbbrStroke">̄</g>tes of the miſterie or crait of coupers to houpe and amend his barels, kylderkyns, fyrkyns, &amp; other veſſels, wherin they ſhall put their bere to ſale fro<g ref="char:cmbAbbrStroke">̄</g> time to time, this act or any thing therin co<g ref="char:cmbAbbrStroke">̄</g>teined to y<hi rend="sup">e</hi> co<g ref="char:cmbAbbrStroke">̄</g>trary in any wiſe notwithſta<g ref="char:cmbAbbrStroke">̄</g>ding.</p>
+            <p>
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> it further enacted by the ſayd auctoritie, that if any perſon at any time after the ſaid feaſt of Lam <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> commyng, do mynyſhe or cauſe to be myniſhed any maner of barrell, kylderkyn, or fyrkyn to the <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>eyte of any the kynges ſubiectes by reaſon of takynge out the head of any ſuch veſſell, or takynge oute of any ſtaffe out or from any ſuch veſſell, that then euery ſuch veſſell to be brent, and thoffender to forfayte for euery ſuch offence. iii. s. iiii. d. the one moytie therof to be to the kynge our Soueraygne Lorde, and thother moytie therof to hym or them of the kynges ſubiectes that wyll ſue for the ſame, to be recouered in maner &amp; fourme aboue reherſed. And the partie ſo offendynge to be further puniſſhed by the diſcretion of the head officer or officers, before whom ſuch default ſhalbe preſented.</p>
+            <p>¶ It is enacted by aucthoritie of thys preſent parlyament, that notwithſtanding any thing conteyned in thys acte of brewers and coupers, whervnto this Cedule is annexed, it ſhalbe leful to euery alebrewer men<g ref="char:EOLunhyphen"/>tioned in the ſame acte to haue and retayne in his ſeruice one perſon of the miſterie or crafte of coupers, to exerciſe in his ſeruice the crafte of a couper, only in byndyng, houpyng &amp; pinning his maiſters ale veſſells, recited by the ſayd acte, and in none otherwiſe to vſe or exerciſe any making of veſſels concerning the craft or miſterie of a couper, whiles that he is in the ſeruice of any ale brewer. Alſo it is enacted, that euery cou<g ref="char:EOLhyphen"/>per, which hereafter ſhall make any ale veſſel ſpecyfied in the ſayde acte, ſhall from the feaſt of Penthecoſte next co<g ref="char:cmbAbbrStroke">̄</g>ming make euery ſuch veſſell accordyng to the aſſiſe ſpecifyed in the treatiſe called Compoſitio men<g ref="char:EOLhyphen"/>ſurarum, that is to ſay euery barrell for ale ſhall conteine. xxxii. galons of the ſaid aſſiſe or aboue, of the whi<g ref="char:EOLhyphen"/>che. viii. galons make the commo<g ref="char:cmbAbbrStroke">̄</g> buſſhell to be vſed in this realme of England euery kylderkyn for ale. xvi. galons of the ſayd aſſiſe or aboue, and euery fyrkin. viii. galons of aſſiſe or aboue, vpon payne of forfayture of iii. s. iiii. d. for euery of the ſame veſſels by hym vntruely made contrary to this acte: the one halfe of the ſame forfayture to be to the kynge, and thother to hym that will ſue for the ſame, by action of dette, byl, playnte, wrytte or otherwiſe: In which action none eſſoin, protection or wager of lawe ſhalbe allowed.</p>
+            <p>¶ And be it alſo enacted, that euery couper marke his veſſell with his own marke, vpon payne of. iii. s. iiii. d to be leuied and recouered after like maner and forme as is aboue ſayd. And that no maner of perſon in the ſerche makyng for the true gaugyng of any ſuch veſſells, ſhal put out the ale of any ſuch veſſell. wherby the ſame ale ſhalbe y<hi rend="sup">e</hi> worſe. And that it ſhalbe laweful to euery ale brewer to bring, cary, &amp; cauſe to be broughte and caried their ale to the houſeholdes of our ſoueraygne lord the kyng, the Quene, the princes, and to eue<g ref="char:EOLunhyphen"/>ry archbyſhops, byſhoppes, dukes, markeſſes, Earles, barons, or other honorable mennes houſes in tonnes buttes, pypes, hoggeſhedes, or other veſſels of greater or larger quantitie than is expreſſed in this preſente acte, as before time hath ben vſed in that behalfe. And alſo it ſhall be lawfull to the ſaid ale brewers to bring cary, or cauſe to be brought conueyde or caried theyr ale to euery mans houſe in barrels, kylderkyns, &amp; fyr<g ref="char:EOLhyphen"/>kyns bearyng and holdynge theyr true contentes, accordyng to the purport and effect of this preſent act, a<g ref="char:EOLunhyphen"/>ny thyng conteyned in the ſame acte to the contrary hereof notwithſtandyng.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
